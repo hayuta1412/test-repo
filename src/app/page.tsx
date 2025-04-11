@@ -6,6 +6,8 @@ export default function Home() {
       <p>Test Commit 2</p>
       <p>Test Squash 1</p>
       <p>Test Squash 223232</p>
+      <p>Test Squash kljlkasd</p>
+      <p>Test Squash sdf</p>
     </div>
   );
 }

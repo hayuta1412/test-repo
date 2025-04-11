@@ -3,6 +3,7 @@ export default function Home() {
     <div>
       Front end app
       <p>Test Commit 1</p>
+      <p>Test Commit 2</p>
     </div>
   );
 }

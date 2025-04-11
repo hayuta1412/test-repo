@@ -4,6 +4,8 @@ export default function Home() {
       Front end app
       <p>Test Commit 1</p>
       <p>Test Commit 2</p>
+      <p>Test Squash 1</p>
+      <p>Test Squash 223232</p>
     </div>
   );
 }

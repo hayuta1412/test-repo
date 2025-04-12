@@ -7,8 +7,7 @@ export default function Home() {
       <p>Test Squash 1</p>
       <p>Test comit </p>
       <p>Test comit dsfasdf</p>
-      <p>Test comit asssss</p>
-      <p>Test comit ass</p>
+      <p>Test comitlsjdlkasd</p>
     </div>
   );
 }

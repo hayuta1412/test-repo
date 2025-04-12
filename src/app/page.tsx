@@ -6,8 +6,7 @@ export default function Home() {
       <p>Test Commit 2</p>
       <p>Test Squash 1</p>
       <p>Test comit </p>
-      <p>Test comit dsaas</p>
-      <p>Test comit dslfasdasd</p>
+      <p>Test comit dsfasdf</p>
     </div>
   );
 }
